@@ -7,7 +7,8 @@
 The Driving License Management System (DVLD) is a comprehensive platform designed to streamline and manage the issuance, renewal, and regulation of driving licenses. It ensures that all applicants are verified and meet the necessary requirements before being granted a license. The system supports multiple license categories, including motorcycle, car, commercial, agricultural, and more.
 
 ## Installation
-- Locate the "DVLD.bak" file in the "Database" folder and restore it to your preferred DBMS.
+- Locate the "Database.bak" file in the "Database" folder and restore it to your preferred DBMS.
+- Install Syncfusion WinForms if not already installed. You can find the installation guide on Syncfusion's website
 - Download the project from the repository.
 - Extract the downloaded files to your computer and Run the Project.
 - Once the project is running, the login screen will appear.
