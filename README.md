@@ -35,5 +35,5 @@ The Driving License Management System (DVLD) is a comprehensive platform designe
 - **Test Configuration**: Manage test types, fees, and scheduling.
 
 ### Security and Logging
-- **Security**The system employs secure password hashing to protect user credentials.
+- **Security** The system employs secure password hashing to protect user credentials.
 - **Error logging** is implemented in the event viewer.
