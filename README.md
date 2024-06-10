@@ -22,7 +22,7 @@ The Driving License Management System (DVLD) is a comprehensive platform designe
 - **International License Issuance**: Issue international driving licenses.
 
 ### Application and Testing
-- **Online Application Submission**: Submit applications for different license services online.
+
 - **Vision Test Management**: Schedule and manage vision tests.
 - **Theoretical Test Management**: Schedule, manage, and record results for theoretical driving tests.
 - **Practical Test Management**: Schedule, manage, and record results for practical driving tests.
